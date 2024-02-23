@@ -1,0 +1,8 @@
+.select {
+    padding: 10px;
+    background: none;
+}
+
+.select:optional {
+    background-color: #323232;
+}
